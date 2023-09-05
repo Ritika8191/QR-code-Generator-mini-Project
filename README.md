@@ -21,7 +21,7 @@ Visit Website: https://goqr.me/api/
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/Ritika8191/QR-code-Generator-mini-Project.git
 ```
 
 - Go to the directory
